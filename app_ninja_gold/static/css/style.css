@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red;  */
+}
+
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    margin-right: 500px;
+    display: inline-block;
+    font-size: x-large;
+}
+
+a {
+    display: inline-block;
+    margin-left: 500px;
+}
+
+h4 {
+    text-align: left;
+    padding-left: 30px;
+}
+
+.col-sm-2 {
+    width: 250px;
+    height: 200px;
+    margin: 20px 50px 20px 30px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.col-sm-2 h3{
+    margin-bottom: 20px;
+}
+
+.col-sm-2 p{
+    margin-bottom: 60px;
+}
+
+.col-lg-12{
+    height: 300px; 
+    overflow: scroll;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 88%;
+    font-weight: 600;
+    border: 2px solid black;
+}
+
+
+.col-lg-12 p{
+    margin-bottom: 0;
+}
